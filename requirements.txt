@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+tiktoken
+python-dotenv
+requests
+streamlit-option-menu
